@@ -1,4 +1,3 @@
-# ai-automation-examples-llms
 # AI Automation Examples with Make.com and n8n
 
 This repo showcases practical examples of AI-powered automation workflows using **Make.com**, **n8n**, and **OpenAI APIs**.
